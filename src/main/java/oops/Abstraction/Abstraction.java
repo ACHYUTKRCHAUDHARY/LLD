@@ -37,9 +37,9 @@ One to deonte all the user-interface like pedals, buttons, stearing wheels etc (
 And another one to denote the actual car with all the implementations of these buttons (SportsCar' class).
  */
 
-class SportsCar implements Car{
-    String brand;
-
-}
-public class Abstraction {
-}
+//class SportsCar implements Car{
+//    String brand;
+//
+//}
+//public class Abstraction {
+//}
