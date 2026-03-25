@@ -12,6 +12,11 @@ public class Docs {
         renderedDocument = "";
     }
 
-    //add a
+    // Adds text as a plain string
+    public void addDocument(String document) {
+        documentList.add(document);
+    }
 
+    // Adds path to the image
+    public vo
 }
